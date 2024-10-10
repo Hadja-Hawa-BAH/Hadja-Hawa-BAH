@@ -5,5 +5,6 @@
 - 📫 Mes compétences actuelles et en cours: Java, HTML, CSS, Javascript,...
 - 😄 Langues: Français/Anglais
 - ⚡ Formation initiale: Master Gestion des Territoires et Développement Local à UBO de Brest.
+- https://app.slack.com/client/T07P7E4PLKS/D07NJLRA57C
 
 
